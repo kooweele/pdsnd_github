@@ -12,6 +12,8 @@ In this section, you will be improving the documentation associated with your pr
 
 For this part, you will want to be a little familiar with markdown. For the most part, you can use regular text within a markdown file, but there are some easy ways to make the file more aesthetically appealing (bold, italic, headers, lists). There are resources at the bottom of this page if you need some assistance.
 
+25-July-2021: Updated Readme.md file - this is to capture new commments made to bikeshare.py run file.
+
 ### Files used
 Include the files used
 

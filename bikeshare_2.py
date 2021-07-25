@@ -1,3 +1,6 @@
+""" Added new comments to Bikeshare.py on 25th July
+This file is the run file to analyze bike share data in 3 US States
+"""
 import time
 import pandas as pd
 import numpy as np
